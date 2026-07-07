@@ -11,9 +11,9 @@ function Navbar() {
                     <Link to='/home' className="text-2xl font-bold">Farmacia React</Link>
 
                     <div className='flex gap-4'>
-                        Home
-                        Categorias
-
+                        <Link to='/home' className='hover:underline'>Home</Link>
+                        <Link to='/categorias' className='hover:underline'>Categorias</Link>
+                        <Link to='/produtos' className='hover:underline'>Produtos</Link>
                     </div>
                 </div>
             </div >
