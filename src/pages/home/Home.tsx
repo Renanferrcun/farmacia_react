@@ -9,7 +9,9 @@ function Home() {
                             Seja Bem Vinde!
                         </h2>
                         <p className='text-xl'>
-                            Trazendo para você uma grande variedade de produtos farmacêuticos. Explore nosso catálogo e realize sua compra com apenas alguns cliques.
+                            Trazendo para você uma grande variedade de produtos farmacêuticos.
+                            <br />
+                            Explore nosso catálogo e realize sua compra com apenas alguns cliques.
                         </p>
 
                         <div className="flex justify-around gap-4">
